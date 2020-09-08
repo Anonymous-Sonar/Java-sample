@@ -2,6 +2,7 @@ package com.mycompany.app;
 
 /**
  * Hello world!
+ * This is the sample line
  */
 public class App
 {
